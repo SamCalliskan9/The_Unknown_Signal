@@ -2,6 +2,7 @@
 This project, find the lost of signal
 
 # The Lost Signal 
+
 **Category:** Story-based Console Game / İnteractive Fiction 
 **Language:**: Pyhton 3
 **Author:**: [SamCalliskan] 
@@ -15,6 +16,8 @@ The player takes the role of **Alex Carter**, a young engineer on a remote resea
 The goal of the game is to **Decode the signal** and survive the challenges while exploring the story.
 
 ---
+
+## Features
 
 - Story-driven narrative with interactive elements.
 - Frequency guessing mini-game (1,5) with limited attempts.
